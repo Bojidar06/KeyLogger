@@ -10,3 +10,4 @@ cd KeyLogger
 cd dist/  
 ./main
 ```
+Or just double click it i guess.
