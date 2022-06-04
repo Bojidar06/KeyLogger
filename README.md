@@ -11,3 +11,9 @@ cd dist/
 ./main
 ```
 Or just double click it i guess.
+
+
+#### Update!!  
+
+It doesn't work. Too basic.  
+I tested it on a computer at my school, antivirus detects it, you need to turn of the victim antivirus hahah.  
